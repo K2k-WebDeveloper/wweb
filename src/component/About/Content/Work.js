@@ -70,7 +70,7 @@ function Work() {
             </p>
           </div>
         </div>
-        <div className="flex flex-col justify-center">
+        <div className="flex flex-col justify-center text-[#fff]">
           <h3 className="py-10 font-extrabold " data-aos="fade-right">
             Join Us on Our Journey
           </h3>

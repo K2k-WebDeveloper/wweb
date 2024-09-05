@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import bg from '../../assets/grow-weed.webp';
+import bg from '../../assets/9QR6qz.gif';
 import Content from './Content';
 
 import img from '../../assets/weed-botanical-cannabis-leaf-illustration-vector-removebg-preview.png'
