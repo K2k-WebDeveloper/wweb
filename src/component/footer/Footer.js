@@ -30,9 +30,6 @@ function Footer() {
 </li>
 
 
-                <li class="mb-4">
-                    <a href="#" class="hover:underline">BLUNTS</a>
-                </li>
 
                 <li class="mb-4">
                     <a href="#" class="hover:underline">Paddo Kweekset</a>
