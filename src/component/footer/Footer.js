@@ -8,9 +8,9 @@ function Footer() {
     <div class="mx-auto w-full max-w-screen-xl">
       <div class="grid grid-cols-2 gap-8 px-4 py-6 lg:py-8 md:grid-cols-4">
         <div>
-            <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Smart Shop Jordan</h2>
+            <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white cursor-pointer">Smart Shop Jordan</h2>
             <ul class="text-gray-500 dark:text-gray-400 font-medium">
-                <li class="mb-4">
+                <li class="mb-4 cursor-pointer">
                     <p className='py-2'>Bergweg 305a<br/>
                     3037en Rotterdam, Netherlands</p>
                     <p className='py-2'>Phone: +31645859570</p>
@@ -20,8 +20,8 @@ function Footer() {
             </ul>
         </div>
         <div>
-            <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">What We Provide</h2>
-            <ul class="text-gray-500 dark:text-gray-400 font-medium">
+            <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white cursor-pointer">What We Provide</h2>
+            <ul class="text-gray-500 dark:text-gray-400 font-medium cursor-pointer">
                 <li class="mb-4">
                     <a href="#" class="hover:underline">Magic Truffels</a>
                 </li>
@@ -46,7 +46,7 @@ function Footer() {
             </ul>
         </div>
         <div>
-            <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Contact Us</h2>
+            <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white cursor-pointer">Contact Us</h2>
             <ul class="text-gray-500 dark:text-gray-400 font-medium">
                 <li class="mb-4">
                     <a href="#" class="hover:underline">Whatsapp</a>
