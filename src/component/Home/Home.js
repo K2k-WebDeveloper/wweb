@@ -1,11 +1,12 @@
 import React, { useEffect } from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import bg from '../../assets/9QR6qz.gif';
+import bg from '../../assets/da47cccdf3779d6d22bb5b78dd63b76b37-weed-bodega-2.1x.rsocial.w1200.webp';
 import Content from './Content';
 
 import img from '../../assets/weed-botanical-cannabis-leaf-illustration-vector-removebg-preview.png'
 import FeatureSection from './FeatureSection';
+import About1 from './About1';
 
 function Home() {
   useEffect(() => {
@@ -52,7 +53,7 @@ function Home() {
             data-aos="fade-down"
             data-aos-delay="400"
           >
-            We provide you Product for your productivity.
+            Where roots take flight and land on green dreams in a click
           </h2>
 
           <div className="flex justify-center items-center py-6">
@@ -69,6 +70,7 @@ function Home() {
           </div>
         </div>
       </div>
+      <About1 />
       <Content />
       <FeatureSection />
     </>

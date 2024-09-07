@@ -5,6 +5,8 @@ import Footer from "./component/footer/Footer";
 import About from "./component/About/About";
 import Navbar from "./component/nav/Navbar";
 import Preloader from "./component/preloader/Preloader"; // Import the Preloader component
+import OurProducts from "./component/OurProducts/OurProducts";
+import WhoWe from "./component/WhoWeAre/WhoWe";
 
 const App = () => {
   const [loading, setLoading] = useState(true); // State to control preloader
@@ -22,6 +24,8 @@ const App = () => {
             <Routes>
               <Route path="/" element={<Home />} />
               <Route path="/about" element={<About />} />
+              <Route path="/product" element={<OurProducts />} />
+              <Route path="/whoweare" element={<WhoWe/>} />
             </Routes>
             <Footer />
           </div>

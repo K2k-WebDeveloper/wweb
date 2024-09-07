@@ -32,6 +32,11 @@ function Work() {
             journey began with a vision to offer a curated selection of top-tier
             cannabis products that enhance the well-being of our customers while
             fostering a community of responsible consumers.
+            <br/>
+            <br/>
+            As a player in the industry of business operations and services provision, we are committed to offering an extensive range of top-tier cannabis items that comply with the most rigorous standards, for effectiveness, safety, and excellence.
+We are here to help you navigate your cannabis journey and assist you in removing any obstacles that may be preventing you from taking advantage of cannabis for recreational or medicinal purposes. 
+
           </p>
           <img src={img1} className="h-44 lg:pr-52" />
         </div>
