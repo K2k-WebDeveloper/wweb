@@ -22,14 +22,16 @@ function Content() {
         Our Commitment to the Community
       </h2>
       <div className="py-4 px-6">
-        <div className="lg:flex" data-aos="fade-up">
-          <p className="lg:pr-48">
+        <div className="lg:flex py-10" data-aos="fade-up">
+          <p className="lg:pr-48 ">
             At Smart Shop Jordan, we're not just about offering top-notch
-            cannabis goods; we also care about the community. We aim to enhance
+            cannabis goods; we also care about the community.
+            <br/> <br/> We aim to enhance
             lives, boost well-being, and help to develop our local communities.
             Our mission is to offer people top-notch sourced cannabis that has a
             positive impact on lives while pushing for a sustainable and
-            inclusive future. Green practices are our top concern at every
+            inclusive future.
+            <br/> <br/> Green practices are our top concern at every
             production step, from using eco-friendly packaging to growing
             cannabis.
           </p>
