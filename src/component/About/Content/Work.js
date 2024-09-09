@@ -16,13 +16,13 @@ function Work() {
   return (
     <div className="px-10 py-5">
       <h2
-        className="py-3 flex justify-center font-bold text-[17px] lg:text-[25px]"
+        className="py-3 flex justify-center font-bold text-[17px] lg:text-[25px] text-[#fff]"
         data-aos="fade-up"
       >
         About Smart Shop Jordan
       </h2>
       <div className="py-4 px-6">
-        <h3 className="py-5 font-extrabold" data-aos="fade-right">
+        <h3 className="py-5 font-extrabold text-[#fff]" data-aos="fade-right">
           Welcome to Smart Shop Jordan
         </h3>
         <div className="lg:flex" data-aos="fade-up">
@@ -43,13 +43,13 @@ We are here to help you navigate your cannabis journey and assist you in removin
 
         <div>
           <h3
-            className="py-5 font-extrabold flex justify-center"
+            className="py-5 font-extrabold flex justify-center text-[#fff]"
             data-aos="fade-up"
           >
             Why Choose Us?
           </h3>
           <div className="lg:flex" data-aos="fade-up">
-            <img src={img2} className="h- lg:pr-52" />
+            <img src={img2} className=" lg:pr-52 md:px-52 lg:px-0" />
             <p className="lg:pr-48">
               At Smart Shop Jordan, we prioritize the health and satisfaction of
               our customers. Our commitment to quality is reflected in every

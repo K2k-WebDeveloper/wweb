@@ -22,7 +22,7 @@ function Home() {
     
       
         <div
-        className='bg-cover bg-center h-[85vh] opacity-85'
+        className='bg-cover bg-center h-[85vh] md:h-[60vh] opacity-85'
         style={{
           backgroundImage: `url(${bg})`,
           backgroundRepeat: 'no-repeat',
@@ -49,7 +49,7 @@ function Home() {
           </h2>
 
           <h2
-            className='flex justify-center text-[#28612b] py-6 font-bold text-[12px] lg:text-[30px]'
+            className='flex justify-center text-[#28612b] py-6 font-bold text-[12px] lg:text-[30px] md:text-[25px]'
             data-aos="fade-down"
             data-aos-delay="400"
           >

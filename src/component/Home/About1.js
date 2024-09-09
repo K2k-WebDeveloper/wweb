@@ -15,14 +15,14 @@ function About1() {
   return (
     <div className="px-10 py-10">
       <h2
-        className="py-3 flex justify-center font-bold text-[17px] lg:text-[25px]"
+        className="py-3 flex justify-center font-bold text-[17px] lg:text-[25px] "
         data-aos="fade-up"
       >
         About Us 
       </h2>
       <div div className="py-4 px-6">
-        <div className="lg:flex" data-aos="fade-up">
-          <img src={img1} className="h-44 lg:pr-52" />
+        <div className="lg:flex md:flex md:justify-center md:" data-aos="fade-up">
+          <img src={img1} className="h-44 lg:pr-52 mx-4" />
           <p className="lg:pr-48">
             Welcome to the cloudland "Smart Shop Jordan," the ultimate
             destination for premium cannabis and related stuff that'll blow your

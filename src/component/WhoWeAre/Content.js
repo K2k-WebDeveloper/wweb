@@ -35,7 +35,7 @@ function Content() {
             production step, from using eco-friendly packaging to growing
             cannabis.
           </p>
-          <img src={img1} className="h-44 lg:pr-52" />
+          <img src={img1} className="h-44 px-0 lg:px-0 lg:pr-52 md:px-52" />
         </div>
 
         <div>

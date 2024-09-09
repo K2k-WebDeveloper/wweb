@@ -28,14 +28,14 @@ function WhoWe() {
       >
         <div className="py-10 mx-10 z-10 placeholder bg-[#d4efd2] bg-opacity-60 text-[#000] ">
           <h2
-            className="py-10 flex justify-center font-bold text-[17px] lg:text-[25px] "
+            className="py-10 flex justify-center font-bold text-[17px] lg:text-[25px]  "
             data-aos="fade-up"
           >
             Who We Are
           </h2>
           <div div className="py-4 px-6">
             <div className="lg:flex" data-aos="fade-up">
-              <img src={img} className="h-44 lg:pr-52" />
+              <img src={img} className="h-44 px-0 lg:px-0 lg:pr-52 md:px-52" />
               <p className="lg:pr-48">
                 We at Smart Shop Jordan take great satisfaction in providing
                 top-notch, laboratory-tested cannabis products to improve your

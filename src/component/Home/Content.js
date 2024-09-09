@@ -24,7 +24,7 @@ function Content() {
       >
         What We Provide
       </h2>
-  <div className="py-4 px-6 lg:flex lg:space-x-6 space-y-4 lg:space-y-0 justify-center">
+  <div className="py-4 px-6  lg:flex lg:space-x-6 space-y-4 lg:space-y-0 justify-center  md:px-52">
   
   <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-[#1a5d47] dark:border-gray-700">
     <a href="#">

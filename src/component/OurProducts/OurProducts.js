@@ -41,7 +41,7 @@ function OurProducts() {
       </h2>
       <div div className="py-4 px-6">
         <div className="lg:flex" data-aos="fade-up">
-          <img src={img} className="h-48 lg:pr-52" />
+          <img src={img} className="h-48 px-5 lg:pr-52 md:px-52" />
           <p className="lg:pr-48">
             Welcome to the cloudland "Smart Shop Jordan," the ultimate
             destination for premium cannabis and related stuff that'll blow your
