@@ -11,10 +11,10 @@ function Footer() {
             <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white cursor-pointer">Smart Shop Jordan</h2>
             <ul class="text-gray-500 dark:text-gray-400 font-medium">
                 <li class="mb-4 cursor-pointer">
-                    <p className='py-2'>Bergweg 305a<br/>
-                    3037en Rotterdam, Netherlands</p>
-                    <p className='py-2'>Phone: +31645859570</p>
-                    <p className='py-2'>Email: Info@SmartShopJordan.com</p>
+                    <p className='py-2'>Bergweg 305<br/>
+                        3037 EN Rotterdam</p>
+                    <p className='py-2'>Phone: 010 - 2652493</p>
+                    <p className='py-2'>KVK: 24378769</p>
                 </li>
                 
             </ul>
